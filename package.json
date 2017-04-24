@@ -1,0 +1,26 @@
+{
+  "name": "urlshortener",
+  "version": "1.0.0",
+  "description": "urshortener for FCC",
+  "main": "urlshortener.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "ip": "^1.1.5",
+    "ipware": "^1.0.0",
+    "mongodb": "^2.2.26",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node urlshortener.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatthiasLiszt/urlshortener-node.js"
+  },
+  "author": "Matthias Liszt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatthiasLiszt/urlshortener-node.js/issues"
+  }
+}
